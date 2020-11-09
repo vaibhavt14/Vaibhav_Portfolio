@@ -18,7 +18,7 @@
 * Classify the given genetic variations/mutations based on evidence from text-based clinical literature.
 * Optimized Naive Bayes,Logistic Regression,Linear SVM and Random Forest Regressors to reach the best model. 
 
-![](/images/dist_cancer.png.png)
+![](/images/dist_cancer.png)
 ![](/images/histogram.png)
 
 
