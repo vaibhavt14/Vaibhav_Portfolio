@@ -7,9 +7,9 @@
 * Optimized Logistic Regressor,Linear SVM, and XGBoost to reach the best model. 
 * Performance metrics: log-loss
 
-![](/images/class_distribution.png"Class distribution of target variable")
-![](/images/questions.png "Distribution of unique and repeated")
-![](/images/questions_occurence.png "question appeareance counts")
+![](/images/class_distribution.png)
+![](/images/questions.png)
+![](/images/questions_occurence.png)
 
 
 # [Project 2: Personalized-Cancer-Diagosis: Project Overview](https://github.com/vaibhavt14/Personalized-Cancer-Diagosis)
@@ -18,8 +18,8 @@
 * Classify the given genetic variations/mutations based on evidence from text-based clinical literature.
 * Optimized Naive Bayes,Logistic Regression,Linear SVM and Random Forest Regressors to reach the best model. 
 
-![](/images/class_distribution%20(1).png "Class features for target variable")
-![](/images/histogram.png "train data for univariate analysis")
+![](/images/class_distribution%20(1).png)
+![](/images/histogram.png)
 
 # [Project 3: Netflix-Movie-Recommendation: Project Overview](https://github.com/vaibhavt14/Netflix-Movie-Recommendation)
 * The given problem is a Recommendation problem 
@@ -28,9 +28,9 @@
 * Applied Surprise model,SVD(Singular value decomposition),SVDpp,xgboost regressor,item-item,user-user similarity,Matrix Factorization
 * Performance metrics: Minimize the difference between predicted and actual rating (RMSE and MAPE)
 
-![](/images/distribution%20of%20ratings.png "Class distribution of target variable")
-![](/images/rating_per_month.png "Rating per month")
-![](/images/rating_per_movie.png "Rating per movie")
+![](/images/distribution%20of%20ratings.png)
+![](/images/rating_per_month.png)
+![](/images/rating_per_movie.png)
 
 # [Project 4: FaceRecoginition-Web-App: Project Overview](https://github.com/vaibhavt14/FaceRecoginition-Web-App) 
 * To classify the gender by uploading a image and model will predict the gender whether Male or Female 
@@ -41,7 +41,7 @@
 * Integrating the machine learning model to Flask App.
 * Built a client facing API using flask
 
-![](/images/test.jpg "Gender prediction")
+![](/images/test.jpg)
 
-[Click here](http://169.63.212.53:8085/)
+ [Click here](http://169.63.212.53:8085/)
 
