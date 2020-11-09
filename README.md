@@ -18,8 +18,9 @@
 * Classify the given genetic variations/mutations based on evidence from text-based clinical literature.
 * Optimized Naive Bayes,Logistic Regression,Linear SVM and Random Forest Regressors to reach the best model. 
 
-![](/images/class_distribution%20(1).png)
+![](/images/dist_cancer.png.png)
 ![](/images/histogram.png)
+
 
 # [Project 3: Netflix-Movie-Recommendation: Project Overview](https://github.com/vaibhavt14/Netflix-Movie-Recommendation)
 * The given problem is a Recommendation problem 
@@ -28,7 +29,7 @@
 * Applied Surprise model,SVD(Singular value decomposition),SVDpp,xgboost regressor,item-item,user-user similarity,Matrix Factorization
 * Performance metrics: Minimize the difference between predicted and actual rating (RMSE and MAPE)
 
-![](/images/distribution%20of%20ratings.png)
+![](/images/rating_dist.png)
 ![](/images/rating_per_month.png)
 ![](/images/rating_per_movie.png)
 
