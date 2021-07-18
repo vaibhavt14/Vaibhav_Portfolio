@@ -44,5 +44,5 @@
 
 ![](/images/test.jpg)
 
- [Click here](http://169.63.212.53:8085/)
+ 
 
